@@ -1,1 +1,1 @@
-{ "dirs" : [ "src" , "src\\simple" ] , "generated" : [] }
+{ "dirs" : [ "src" , "src\\simple" , "src\\calc" ] , "generated" : [] }

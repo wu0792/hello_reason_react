@@ -15,4 +15,6 @@ S c:\Src\hello_reason_react\node_modules\@glennsl/bs-json\lib\ocaml
 B c:\Src\hello_reason_react\node_modules\@glennsl/bs-json\lib\ocaml
 S src\simple
 B lib\bs\src\simple
+S src\calc
+B lib\bs\src\calc
 ####BSB GENERATED: NO EDIT}
