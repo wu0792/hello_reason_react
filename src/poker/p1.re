@@ -9,7 +9,6 @@ let parseAndRenderSuit = suitStr =>
 
 let parseAndRenderNum = num =>
   switch (num) {
-  | "0" => "Zero"
   | "1" => "One"
   | "2" => "Two"
   | "3" => "Three"
